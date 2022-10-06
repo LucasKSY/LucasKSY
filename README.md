@@ -1,6 +1,6 @@
 ## Seja Bem vindo! Eu sou Lucas Kenji.
 
-- 💻 atuo com análise e desenvolvimento de software e atualmente estou cursando sistema de informação na Fef.
+- 💻 Atuo com análise e desenvolvimento de software e atualmente estou cursando sistema de informação na Fef.
 
 <div align="center">
   <a href="https://github.com/LucasKSY/">
