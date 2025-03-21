@@ -4,19 +4,11 @@ Sou um entusiasta da tecnologia com foco em análise e desenvolvimento de softwa
 
 Minha jornada profissional envolve a criação de soluções eficientes para problemas complexos, além de contribuir com o crescimento e a inovação de projetos tecnológicos. Estou sempre em busca de desafios que me permitam aplicar o conhecimento teórico adquirido e também aprender com a prática.
 
-### Habilidades e Tecnologias que utilizo:
-
-- **Linguagens de Programação**: Java, JavaScript, Python
-- **Web Development**: HTML5, CSS3
-- **Banco de Dados**: PostgreSQL, MongoDB
-- **Ferramentas e Frameworks**: Spring Boot, Docker, Git, Flutter
-- **Metodologias Ágeis**: Scrum, Kanban
-
 ### Minhas Estatísticas no GitHub:
 
 <div align="center">
   <a href="https://github.com/LucasKSY/">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LucasKSY&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="165em" src="[https://github-readme-stats.vercel.app/api?=LucasKSY&show_icons=true&theme=dark&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=LucasKSY&show_icons=true&theme=dark&include_all_commits=true&count_private=true)"/>
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasKSY&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
